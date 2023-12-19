@@ -10,7 +10,7 @@ In-Progress
 <img src = "https://github.com/CreatorDaniY/nkd/assets/153824990/c36aae38-eab4-4aae-a02b-49a57e2dc221" width = "300"/>
 
 ### Home Page (after login)
-<img src = "https://github.com/CreatorDaniY/nor_kor/assets/153824990/57c4511b-abe6-47a2-bbb4-7afee8e9ce62" width = "300"/>
+<img src = "https://github.com/CreatorDaniY/nkd/assets/153824990/37f6702b-a4be-4c20-8992-ca3598b841d9" width = "300"/>
 
 ### detail page with comments
-<img src = "https://github.com/CreatorDaniY/nor_kor/assets/153824990/64838f23-457a-449c-a608-6f8950b8b6bd" width = "300"/>
+<img src = "https://github.com/CreatorDaniY/nkd/assets/153824990/c40f039b-ca1a-4497-b57a-0cabdc4e1ebe" width = "300"/>
