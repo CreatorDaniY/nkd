@@ -3,7 +3,8 @@
 communityApp for northKorea defectors
 
 ## PlayStore release
-In-Progress
+RELEASED
+https://play.google.com/store/apps/details?id=com.nokor_defect.north_kor_defector
 
 ## In-App pages
 ### Initial Page
